@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 I'm Yousef El-khawanki
 
 <a href="https://www.youtube.com/channel/UCCxzov-Vf4YvDdnDrjsMtAw">
-  <img align="left" alt="Yousef Elkhawanki youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Yousef Elkhawanki youtube" width="22px" color='white' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yousef-elkhawanki-b51456219/">
   <img align="left" alt="Yousef Elkhawanki LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
