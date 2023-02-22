@@ -1,21 +1,21 @@
-### Hi there 👋🏻 I'm Mohamed Amr
+### Hi there 👋🏻 I'm Yousef El-khawanki
 
-<a href="https://twitter.com/devmohamedamr">
-  <img align="left" alt="mohmed amr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.youtube.com/channel/UCCxzov-Vf4YvDdnDrjsMtAw">
+  <img align="left" alt="Yousef Elkhawanki youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.linkedin.com/in/devmohamedamr">
-  <img align="left" alt="mohamed amr LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/yousef-elkhawanki-b51456219/">
+  <img align="left" alt="Yousef Elkhawanki LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/devmohamedamr">
-  <img align="left" alt="mohamed amr Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/yusuf.mhamed.9?mibextid=ZbWKwL">
+  <img align="left" alt="Yousef Elkhawanki Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Mohamed Amr, Backend Developer 🚀 from Egypt
+Hi, I'm Yousef El-khawanki, Front-End Developer 🚀 from Egypt
 
-- 🐱‍🏍 Founder of Itrax Academy ,
-- 📫 You can reach me on : dev.mohamedamr@gmail.com
+- 🐱‍🏍 Ajax Learning Channel ,
+- 📫 You can reach me on : dev.elkhawanki@gmail.com
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
