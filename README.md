@@ -4,10 +4,10 @@
   <img align="left" alt="Yousef Elkhawanki youtube" width="22px" color='white' src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/yousef-elkhawanki-b51456219/">
-  <img align="left" alt="Yousef Elkhawanki LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yousef Elkhawanki LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.facebook.com/yusuf.mhamed.9?mibextid=ZbWKwL">
-  <img align="left" alt="Yousef Elkhawanki Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Yousef Elkhawanki Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />
 </a>
 <br />
 <br />
