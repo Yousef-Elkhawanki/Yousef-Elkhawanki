@@ -22,8 +22,8 @@ Hi, I'm Yousef El-khawanki, Front-End Developer 🚀 from Egypt
 - "Life is about Solving Problems".
 
 ### 👨🏻‍💻 Language and tools: 
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/html.png"></img>
-<img height="25" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png"></img>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></img>
+<img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></img>
+<img height="25" src="https://reactjs.org/logo-og.png"></img>
+<img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></img>
