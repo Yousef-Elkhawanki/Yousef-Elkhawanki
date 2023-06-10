@@ -19,7 +19,7 @@
 
 Hi, I'm Yousef El-khawanki, Front-End Developer 🚀 from Egypt
 
-- 🐱‍🏍 Yousef Elkhawanki Channel On Youtube,
+- 🐱‍🏍 Joe Programming Channel On Youtube,
 - 📫 You can reach me on : dev.elkhawanki@gmail.com
 
 ### 💎 Fav Quotes: 
