@@ -16,18 +16,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.instagram.com/itsyousef_97/?next=%2F"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yousef Elkhawanki | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yousef Elkhawnki | Instagram" width="21px"/></a>
-<a href="https://img.freepik.com/free-icon/youtube_318-183441.jpg?t=st=1692280795~exp=1692281395~hmac=4dbd50342f2cbc4707583b242b37b8bb689fb1e98d9f22787cd849691fee7649"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yousef Elkhawanki | YouTube" width="21px"/></a>
+<a href="https://www.youtube.com/channel/UCCxzov-Vf4YvDdnDrjsMtAw"><img align="left" src="https://img.freepik.com/free-icon/youtube_318-183441.jpg?t=st=1692280795~exp=1692281395~hmac=4dbd50342f2cbc4707583b242b37b8bb689fb1e98d9f22787cd849691fee7649" alt="Yousef Elkhawanki | YouTube" width="21px"/></a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- poke-finder project
-- anime project
-
-## 🌱 I'm currently learning
-
-- 
 
 ## 💼 Technical Skills
 
