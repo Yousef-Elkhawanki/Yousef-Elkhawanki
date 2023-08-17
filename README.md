@@ -8,7 +8,6 @@
 <a href="https://www.youtube.com/channel/UCCxzov-Vf4YvDdnDrjsMtAw">
   <img align="left" alt="Yousef Elkhawanki youtube" width="22px" color='white' src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />
 </a>
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <a href="https://www.linkedin.com/in/yousef-elkhawanki-b51456219/">
   <img align="left" alt="Yousef Elkhawanki LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
