@@ -22,7 +22,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yousef-Elkhawanki&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=dddddd&icon_color=aaaaaa"/><img src="https://github-readme-stats.vercel.app/api?username=Yousef-Elkhawanki&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=444444&icon_color=555555" height="165" alt="GitHub statistics"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Elkhawanki&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=dddddd"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Elkhawanki&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=444444" height="165" alt="Top languages"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yousef-Elkhawanki&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousef-Elkhawanki&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
+
 
 </div>
 
